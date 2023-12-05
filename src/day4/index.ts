@@ -28,7 +28,7 @@ class Day4 extends Day {
     }
 
     solveForPartTwo(input: string): string {
-     return input;
+        return input;
     }
 }
 
